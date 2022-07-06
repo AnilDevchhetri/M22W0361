@@ -29,6 +29,10 @@ body{
 	padding: 40px;
 	
 }
+a{
+	    color: #2b2344;
+	    text-decoration-style: none;
+}
 
 /* start design of profile section  */
 .myprofile{
